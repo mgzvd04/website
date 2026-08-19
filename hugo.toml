@@ -1,0 +1,51 @@
+baseURL = "https://urovorozu.xyz/"
+locale = "en-us"
+title = "🐍"
+theme = "nightfall"
+
+[params]
+user = "raz"
+hostname = "urovorozu.xyz"
+openLinksInNewTab = true
+displayDateFormat = "02.01.2006"
+sitedescription = "The magic lives close to the edge"
+showMetadata = false
+
+[params.author]
+name = "🐍"
+email = "contact@urovorozu.xyzz"
+
+[params.styles]
+color = "orange"
+
+[[params.social]]
+key = 0
+name = "Bluesky (18+)"
+url = "https://bsky.app/profile/did:plc:g6hmilvcmmkpx6gepruk5ekl"
+icon = "fa-brands fa-bluesky"
+
+[[params.social]]
+key = 1
+name = "X (18+)"
+url = "https://x.com/_rz13"
+icon = "fa-brands fa-x-twitter"
+
+[[params.social]]
+key = 2
+name = "Signal"
+url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOtG64mJ0LdeD-I6"
+icon = "fa-brands fa-signal-messenger"
+
+[[params.social]]
+key = 3
+name = "Email"
+url = "mailto:hi@urovorozu.xyz"
+icon = "fa-regular fa-envelope"
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    url = "/about"
+  [[menu.header]]
+    name = "wakfu"
+    url = "/wakfu"
