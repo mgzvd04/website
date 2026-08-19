@@ -3,6 +3,10 @@ locale = "en-us"
 title = "🐍"
 theme = "nightfall"
 
+[module]
+[[module.imports]]
+  path = 'github.com/LordMathis/hugo-theme-nightfall'
+
 [params]
 user = "raz"
 hostname = "urovorozu.xyz"
