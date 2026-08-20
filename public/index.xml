@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>🐍</title>
-		<link>https://urovorozu.xyz/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on 🐍</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
-			<managingEditor>contact@urovorozu.xyzz (🐍)</managingEditor>
+			<managingEditor>hi@urovorozu.xyz (🐍)</managingEditor>
 		
 		
-			<webMaster>contact@urovorozu.xyzz (🐍)</webMaster>
+			<webMaster>hi@urovorozu.xyz (🐍)</webMaster>
 		
 		
 		
-			<atom:link href="https://urovorozu.xyz/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title></title>
-				<link>https://urovorozu.xyz/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@urovorozu.xyzz (🐍)</author>
-				<guid>https://urovorozu.xyz/about/</guid>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hi@urovorozu.xyz (🐍)</author>
+				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;h1 id=&#34;-raziel-azenroth-aka-ouroboros-&#34;&gt;✧ Raziel Azenroth, aka &amp;ldquo;Ouroboros&amp;rdquo; ✧&lt;/h1&gt;&#xA;&lt;h2 id=&#34;22--fileng--hethey&#34;&gt;22 ✧ FIL/ENG ✧ he/they&lt;/h2&gt;&#xA;&lt;p&gt;Computer nerd, currently at 3rd year studying computer engineering, occasional shitposter/memer, pedantic piece of shit and freak at heart.&lt;/p&gt;&#xA;&lt;p&gt;I really don&amp;rsquo;t have anything cool to put more in this, but you get the idea.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title></title>
-				<link>https://urovorozu.xyz/wakfu/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@urovorozu.xyzz (🐍)</author>
-				<guid>https://urovorozu.xyz/wakfu/</guid>
+				<link>http://localhost:1313/wakfu/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hi@urovorozu.xyz (🐍)</author>
+				<guid>http://localhost:1313/wakfu/</guid>
 				<description>&lt;h1 id=&#34;the-cyan-page&#34;&gt;The Cyan Page&lt;/h1&gt;&#xA;&lt;h2 id=&#34;current-patch-192&#34;&gt;Current patch: &#xD;&#xA;&lt;a href=&#34;https://www.wakfu.com/en/mmorpg/news/patch-notes/1770254-haven-paddocks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1.92&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;last-updated-8202026&#34;&gt;Last updated: 8/20/2026&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s changed:&lt;/strong&gt; I decided to port the entirety of the Wakfu MMO rentry since the owner of Rentry had some&amp;hellip; very questionable stances regarding about the Israeli–Palestinian conflict. Very bad ones, I say. So I mustered up and skimmed over using Hugo since it uses Markdown (the same language Rentry uses) to generate websites. I know that it&amp;rsquo;s not as pretty looking as the Rentry, but hey, if it works, it works.&lt;/p&gt;</description>
 			</item>
 	</channel>
