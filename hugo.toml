@@ -42,7 +42,7 @@ icon = "fa-regular fa-envelope"
 [menu]
   [[menu.header]]
     name = "about"
-    url = "/about/"
+    url = "/about"
   [[menu.header]]
     name = "wakfu"
-    url = "/wakfu/"
+    url = "/wakfu"
