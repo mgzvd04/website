@@ -3,10 +3,6 @@ locale = "en-us"
 title = "🐍"
 theme = "nightfall"
 
-[module]
-[[module.imports]]
-  path = 'github.com/LordMathis/hugo-theme-nightfall'
-
 [params]
 user = "raz"
 hostname = "urovorozu.xyz"
@@ -17,7 +13,7 @@ showMetadata = false
 
 [params.author]
 name = "🐍"
-email = "contact@urovorozu.xyz"
+email = "hi@urovorozu.xyz"
 
 [params.styles]
 color = "orange"
