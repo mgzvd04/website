@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/260821/</loc>
+    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
@@ -11,7 +18,5 @@
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/wakfu/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
   </url>
 </urlset>

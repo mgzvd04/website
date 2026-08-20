@@ -2,6 +2,7 @@ baseURL = "http://urovorozu.xyz/"
 locale = "en-us"
 title = "🐍"
 theme = "nightfall"
+buildFuture = true
 
 [params]
 user = "raz"
