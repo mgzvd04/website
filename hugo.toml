@@ -1,4 +1,4 @@
-baseURL = "http://urovorozu.xyz/"
+baseURL = "https://urovorozu.xyz/"
 locale = "en-us"
 title = "🐍"
 theme = "nightfall"

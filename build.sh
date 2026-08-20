@@ -90,7 +90,7 @@ main() {
 
   # Build the project
   echo "Building the project..."
-  hugo build --gc --minify --baseURL --buildFuture "${CI_PAGES_URL}"
+  hugo build --gc --minify --buildFuture --baseURL "${CI_PAGES_URL}"
 
   # Compress published files
   echo "Compressing published files..."
