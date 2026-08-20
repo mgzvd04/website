@@ -15,9 +15,6 @@ showMetadata = false
 name = "🐍"
 email = "hi@urovorozu.xyz"
 
-[params.styles]
-color = "orange"
-
 [[params.social]]
 key = 0
 name = "Bluesky (18+)"

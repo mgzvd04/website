@@ -1,3 +1,7 @@
++++
+title = "The Cyan Page"
+description = "Ported from the original Wakfu MMO rentry."
++++
 # The Cyan Page
 ## Current patch: [1.92](https://www.wakfu.com/en/mmorpg/news/patch-notes/1770254-haven-paddocks)
 ### Last updated: 8/20/2026
