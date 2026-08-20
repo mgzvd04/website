@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Very embarrassing information from me. Yikes!"
+description = "Some very embarrassing information from me. Yikes!"
 +++
 
 # ✧ Raziel Azenroth, aka "Ouroboros" ✧
