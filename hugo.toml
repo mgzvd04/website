@@ -9,6 +9,7 @@ user = "raz"
 hostname = "urovorozu.xyz"
 openLinksInNewTab = true
 sitedescription = "The magic lives close to the edge"
+showMetadata = false
 
 [params.author]
 name = "🐍"
