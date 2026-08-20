@@ -6,12 +6,12 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/wakfu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
   </url>
 </urlset>
