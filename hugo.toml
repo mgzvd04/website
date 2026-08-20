@@ -7,9 +7,7 @@ theme = "nightfall"
 user = "raz"
 hostname = "urovorozu.xyz"
 openLinksInNewTab = true
-displayDateFormat = "02.01.2006"
 sitedescription = "The magic lives close to the edge"
-showMetadata = false
 
 [params.author]
 name = "🐍"
@@ -43,6 +41,11 @@ icon = "fa-regular fa-envelope"
   [[menu.header]]
     name = "about"
     url = "/about"
+    
+  [[menu.header]]
+    name = "blog"
+    url = "/blog"
+
   [[menu.header]]
     name = "wakfu"
     url = "/wakfu"

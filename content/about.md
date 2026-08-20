@@ -1,6 +1,7 @@
 +++
 title = "About"
 description = "Some very embarrassing information from me. Yikes!"
+showMetadata = false
 +++
 
 # ✧ Raziel Azenroth, aka "Ouroboros" ✧

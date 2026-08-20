@@ -1,11 +1,12 @@
 +++
 title = "The Cyan Page"
 description = "Ported from the original Wakfu MMO Rentry."
+showMetadata = false
 +++
 
 # Current patch: [1.92](https://www.wakfu.com/en/mmorpg/news/patch-notes/1770254-haven-paddocks)
 ## Last updated: 8/20/2026
-**What's changed:** I decided to port the entirety of the Wakfu MMO rentry since the owner of Rentry had some... very questionable stances regarding about the Israeli–Palestinian conflict. Very bad ones, I say. So I mustered up and skimmed over using Hugo since it uses Markdown (the same language Rentry uses) to generate websites. I know that it's not as pretty looking as the Rentry, but hey, if it works, it works.
+**What's changed:** I decided to port the entirety of the Wakfu MMO rentry since [the owner of Rentry had some... very questionable stances regarding about the Israeli–Palestinian conflict](https://x.com/phainomenons/status/2065190371789816269). Very bad ones, I say. So I mustered up and skimmed over using Hugo since it uses Markdown (the same language Rentry uses) to generate websites. I know that it's not as pretty looking as the Rentry, but hey, if it works, it works.
 
 Also I've been slacking off maintaining this since I had a severe crashout of "Sacrier getting abandoned for the 23489th time" until the proposed changes came along, which I am very satisfied with. Nevertheless, if you want to add something to this page, mail me at thecyanpage@urovorozu.xyz, as I was unaware that there are more resources/websites popped up since the last time I updated this. 
 
