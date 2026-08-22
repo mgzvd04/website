@@ -108,6 +108,7 @@ In User Settings under App Settings, select Voice & Video. Scroll down until you
 ## Recording/streaming the game in OBS
 If you're planning to record or stream in OBS, **do not use Game capture.** OBS can't reliably capture the gameplay footage as it interferes on the graphics code of the game, instead, use Window capture and over in the Video settings in-game, switch to "Full screen window" and tick "Disable background FPS cap".
 
-![](https://i.postimg.cc/25v89h4W/java-1682599548.gif)
+![GIF of where to toggle the setting](https://i.postimg.cc/25v89h4W/java-1682599548.gif)
+
 ## Game softlocks to black screen while in-game
 This is due to the client's limited memory allocation. [Refer to this blog post for the fix.](https://www.wakfu.com/en/mmorpg/news/announcements/1459515-allocate-more-ram-improve-performance)

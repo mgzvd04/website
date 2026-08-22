@@ -16,28 +16,29 @@ name = "🐍"
 email = "hi@urovorozu.xyz"
 
 [[params.social]]
-key = 0
 name = "Bluesky (18+)"
 url = "https://bsky.app/profile/did:plc:g6hmilvcmmkpx6gepruk5ekl"
 icon = "fa-brands fa-bluesky"
-
 [[params.social]]
-key = 1
-name = "X (18+)"
-url = "https://x.com/_rz13"
-icon = "fa-brands fa-x-twitter"
-
-[[params.social]]
-key = 2
-name = "Signal"
-url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOtG64mJ0LdeD-I6"
-icon = "fa-brands fa-signal-messenger"
-
-[[params.social]]
-key = 3
 name = "Email"
 url = "mailto:hi@urovorozu.xyz"
 icon = "fa-regular fa-envelope"
+[[params.social]]
+name = "Roblox"
+url = "https://roblox.com/users/933682026/profile"
+icon = "fa-brands fa-roblox-creator-studio"
+[[params.social]]
+name = "Signal"
+url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOtG64mJ0LdeD-I6"
+icon = "fa-brands fa-signal-messenger"
+[[params.social]]
+name = "Telegram"
+url = "https://t.me/rz01101"
+icon = "fa-brands fa-telegram"
+[[params.social]]
+name = "X (18+)"
+url = "https://x.com/_rz13"
+icon = "fa-brands fa-x-twitter"
 
 [menu]
   [[menu.header]]
