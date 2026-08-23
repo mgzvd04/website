@@ -3,7 +3,7 @@ title = "About"
 description = "Some very embarrassing information from me. Yikes!"
 showMetadata = false
 +++
-# ✧ Raziel Azenroth, aka "Ouroboros"
+# ✧ Raziel Ærgaroth, aka "Ouroboros"
 ## 22 • ♊ • FIL/ENG • he/they
 {{<center>}}
 Computer nerd, currently at 3rd year studying computer engineering. Occasional shitposter/memer, pedantic piece of shit and freak at heart.
@@ -24,11 +24,10 @@ Computer nerd, currently at 3rd year studying computer engineering. Occasional s
 ### Active
 - Arknights, EN server (not Endfield)
 ### Intermittent
-- Nothing yet...
+- Spiral Knights
 ### Inactive
 - Krosmoz
 - Roblox
-- Spiral Knights
 - Team Fortress 2
 
 I really don't have anything cool to put more in this, but you get the idea.
