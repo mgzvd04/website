@@ -33,11 +33,11 @@ url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOt
 icon = "fa-brands fa-signal-messenger"
 [[params.social]]
 name = "Telegram"
-url = "https://t.me/rz01101"
+url = "https://t.me/r_z1101"
 icon = "fa-brands fa-telegram"
 [[params.social]]
 name = "X (18+)"
-url = "https://x.com/_rz13"
+url = "https://x.com/urovorozu"
 icon = "fa-brands fa-x-twitter"
 
 [menu]
@@ -48,7 +48,3 @@ icon = "fa-brands fa-x-twitter"
   [[menu.header]]
     name = "blog"
     url = "/blog"
-
-  [[menu.header]]
-    name = "wakfu"
-    url = "/wakfu"
