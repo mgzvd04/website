@@ -5,40 +5,44 @@ theme = "nightfall"
 buildFuture = true
 
 [params]
-user = "raz"
-hostname = "urovorozu.xyz"
-openLinksInNewTab = true
-sitedescription = "The magic lives close to the edge"
-showMetadata = false
+  user = "raz"
+  hostname = "urovorozu.xyz"
+  openLinksInNewTab = true
+  sitedescription = "The magic lives close to the edge"
+  showMetadata = false
 
 [params.author]
-name = "🐍"
-email = "hi@urovorozu.xyz"
+  name = "🐍"
+  email = "hi@urovorozu.xyz"
 
 [[params.social]]
-name = "Bluesky (18+)"
-url = "https://bsky.app/profile/did:plc:g6hmilvcmmkpx6gepruk5ekl"
-icon = "fa-brands fa-bluesky"
+  name = "Bluesky (18+)"
+  url = "https://bsky.app/profile/did:plc:g6hmilvcmmkpx6gepruk5ekl"
+  icon = "fa-brands fa-bluesky"
 [[params.social]]
-name = "Email"
-url = "mailto:hi@urovorozu.xyz"
-icon = "fa-regular fa-envelope"
+  name = "Email"
+  url = "mailto:hi@urovorozu.xyz"
+  icon = "fa-regular fa-envelope"
 [[params.social]]
-name = "Roblox"
-url = "https://roblox.com/users/933682026/profile"
-icon = "fa-brands fa-roblox-creator-studio"
+  name = "Matrix"
+  url = "https://matrix.to/#/@shisan:matrix.cybernetica.cc"
+  icon = "fa-brands fa-matrix"
 [[params.social]]
-name = "Signal"
-url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOtG64mJ0LdeD-I6"
-icon = "fa-brands fa-signal-messenger"
+  name = "Roblox"
+  url = "https://roblox.com/users/933682026/profile"
+  icon = "fa-brands fa-roblox-creator-studio"
 [[params.social]]
-name = "Telegram"
-url = "https://t.me/r_z1101"
-icon = "fa-brands fa-telegram"
+  name = "Signal"
+  url = "https://signal.me/#eu/SOuTeE9pIFzaHkK7JDzVROmbkxqSkETUHMUGiQDfE-HTATCNJOtG64mJ0LdeD-I6"
+  icon = "fa-brands fa-signal-messenger"
 [[params.social]]
-name = "X (18+)"
-url = "https://x.com/urovorozu"
-icon = "fa-brands fa-x-twitter"
+  name = "Telegram"
+  url = "https://t.me/r_z1101"
+  icon = "fa-brands fa-telegram"
+[[params.social]]
+  name = "X (18+)"
+  url = "https://x.com/urovorozu"
+  icon = "fa-brands fa-x-twitter"
 
 [menu]
   [[menu.header]]
