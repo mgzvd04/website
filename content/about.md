@@ -23,11 +23,9 @@ Computer nerd, currently at 3rd year studying computer engineering. Occasional s
 ## Currently playing...
 ### Active
 - Arknights, EN server (not Endfield)
-### Intermittent
-- Spiral Knights
 ### Inactive
-- Krosmoz
 - Roblox
+- Spiral Knights
 - Team Fortress 2
 
 I really don't have anything cool to put more in this, but you get the idea.
