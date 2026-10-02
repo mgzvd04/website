@@ -4,7 +4,7 @@ description = "Some very embarrassing information from me. Yikes!"
 showMetadata = false
 +++
 # ✧ Raziel Ærgaroth, aka "Ouroboros"
-## 22 • ♊ • FIL/ENG • he/they
+## 22 • ♊ • FIL/ENG • AMAB • non-binary • he/they
 {{<center>}}
 Computer nerd, currently at 3rd year studying computer engineering. Occasional shitposter/memer, pedantic piece of shit and freak at heart.
 {{</center>}}
