@@ -3,8 +3,9 @@ title = "About"
 description = "Some very embarrassing information from me. Yikes!"
 showMetadata = false
 +++
-# ✧ Raziel Ærgaroth, aka "Ouroboros"
-## 22 • ♊ • FIL/ENG • AMAB • non-binary • he/they
+# ✧ Raziel Ærgaroth, aka "XIII" & "Ouroboros" ✧
+## 22 ✧ AMAB ✧ non-binary ✧ he/they
+## FIL/ENG ✧ ♊ ✧ INTP 5w4
 {{<center>}}
 Computer nerd, currently at 3rd year studying computer engineering. Occasional shitposter/memer, pedantic piece of shit and freak at heart.
 {{</center>}}
